@@ -50,8 +50,8 @@ Target variable:
 | Base ANN               | 0.3770   |
 | ANN + CV               | 0.3832   |
 | Random Forest          | 0.3831   |
-| **ANN (Engineered)**   | **↑ Improved** *(final model)*  
-| Gradient Boosting      | **↑ Compared** *(if outperforming ANN)*
+| **ANN (Engineered)**   | 0.3982   |
+| Gradient Boosting      | 0.4147   | 
 
 ---
 
