@@ -112,7 +112,8 @@ model = load_model('models/airbnb_enhanced_ann_model.h5')
 ## 📌 Author
 
 Mohammad Wasif Ahad
-
+Linkedin: https://www.linkedin.com/in/wasifahad/
+Github: https://github.com/wasif23ahad
 
 
 
